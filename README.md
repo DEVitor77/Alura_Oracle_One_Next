@@ -1,4 +1,4 @@
-Olá esse é meu projeto da Oracle_one
+Olá esse é meu projeto da Alura
 # Alura_Oracle_One_Next
 JavaScript e HTML
 
